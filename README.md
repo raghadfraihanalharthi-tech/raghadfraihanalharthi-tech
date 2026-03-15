@@ -8,7 +8,6 @@ I am a **Computer Science student** at Taif University (Class of 2027) with a pa
 
 - 🔭 **Current Focus:** Developing **Ortha** (Travel Support Platform) and **Al-Munqidh** (Emergency Response System).
 - 🎓 **Education:** Pursuing a B.S. in Computer Science.
-- 📜 **Certifications:** AWS Cloud Practitioner (In Progress).
 - ⚡ **Goal:** Delivering high-quality tech projects through Agile methodologies and efficient resource management.
 
 ---
