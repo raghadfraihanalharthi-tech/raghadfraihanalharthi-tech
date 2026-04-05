@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me:
 I am a **Computer Science student** at Taif University (Class of 2027). I focus on the intersection of technology and management, aiming to lead tech projects from concept to execution.
 
 - 🔭 **Current Focus:** Building technical foundations and exploring Project Management methodologies.
